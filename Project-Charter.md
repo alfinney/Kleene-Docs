@@ -1,12 +1,11 @@
 # Kleene → Project Charter
-
 Team: Vaastav Arora, Andrew Davis, Abigail Finney, Jesse Gallardo, Daniel Tracy, and William Tyler
 Last updated: January 16, 2019
+
 
 ### Problem Statement
 
 There are hundreds of music services out there: Spotify, Apple Music, and Soundcloud, just to name a few. With this many services, there is bound to be restrictions on what services carry what kinds of music and which artists. With Kleene, this issue will be a thing of the past. This application will allow a user to sign in to all their services and keep their music libraries all in one convenient location. Playlists are now easier than ever to maintain, as users will now have the option to include songs from different music services.
-
 
 
 ### Project Objectives
@@ -21,8 +20,8 @@ There are hundreds of music services out there: Spotify, Apple Music, and Soundc
 
 5. Support playing tracks in-app. This feature will be highly convenient for users who want an all-in-one hub for their music.
 
-### 
 
+### Stakeholders
 
 **Project Owners:** Vaastav Arora, Andrew Davis, Abigail Finney, Jesse Gallardo, Daniel Tracy, and William Tyler
 
@@ -32,8 +31,8 @@ There are hundreds of music services out there: Spotify, Apple Music, and Soundc
 
 **Project Coordinator:** Nanxin Jin
 
-### 
 
+### Deliverables
 
 1. An iOS application frontend which will allow the user to sign in or create an account if necessary. It will then present the user’s combined library in addition to options to sign in to different music services. The application will be written in Swift and use each service’s respective API along with Firebase in order to gain access to the songs a user has and support additional features.
 
