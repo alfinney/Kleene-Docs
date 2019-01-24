@@ -13,7 +13,7 @@ There are many music services available, yet no service alone has all the songs 
 
 #### Target Users
 
-Music listeners are bouncing between services to find the songs they enjoy. Some of the most prominent music services are Apple Music, Spotify, and Soundcloud, and they all have a selection of millions of songs. Yet none of these services can function as an all-in-one music tool because many times a specific song isn’t available on a specific service. Kleene will be made to serve those users who have their favorite songs sprawled amongst different services.
+Our target users are individuals who regularly use more than one music streaming service. Music listeners are bouncing between services to find the songs they enjoy. Some of the most prominent music services are Apple Music, Spotify, and Soundcloud, and they all have a selection of millions of songs. Yet none of these services can function as an all-in-one music tool because many times a specific song isn’t available on a specific service. Kleene will be made to serve those users who have their favorite songs sprawled amongst different services.
 
 Music service providers will also be incentivized to be supported by Kleene because Kleene users will be less likely to try to pick a single service to stick with. Kleene users will be more comfortable using more services, increasing the amount of users a service has.
 
@@ -21,7 +21,9 @@ Music service providers will also be incentivized to be supported by Kleene beca
 
 To the best of our knowledge, there are no other services that combine multiple music services in the manner that Kleene is going to. There are other applications, which provide some of the specific features that Kleene will provide. For example, SongShift is an iOS app with a freemium model that allows users to move playlists between services. SongShift is a freemium service which is rooted in moving playlists from one service to another
 
-Another paid app, Houdini Playlist Transfer, offers roughly the same set of features as SongShift and is ranked #54 in Music on the Apple App Store. This demonstrates the potential of a well-built, all-in-one music application that offers a larger superset of features. Kleene will offer more transfer options, from one song to entire music libraries, for free.
+Another paid app, Houdini Playlist Transfer, offers roughly the same set of features as SongShift and is ranked #54 in Music on the Apple App Store. This demonstrates the potential of a well-built, all-in-one music application that offers a larger superset of features. 
+
+Kleene will offer more transfer options, from one song to entire music libraries, for free. Kleene will also offer music playback from within the app.
 
 
 ### Requirements
@@ -32,6 +34,7 @@ Another paid app, Houdini Playlist Transfer, offers roughly the same set of feat
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | register for an account                                                  | I can link multiple services and create combined playlists.                      |
 | login to my Kleene account                                               | I can access my customized content.                                              |
+| recover my password                                                      | I can access my account if I forget my password |
 | sign into supported music service(s)                                     | I can listen to the music I already enjoy.                                       |
 | have access to basic features without registering                        | I can become comfortable with the app without the inconvenience of registering.  |
 | play music within the app from multiple services                         | I can enjoy a smooth music listening experience                                  |
