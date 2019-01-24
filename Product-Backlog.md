@@ -41,9 +41,7 @@ Another paid app, Houdini Playlist Transfer, offers roughly the same set of feat
 | toggle between light and dark modes (if time allows)                     | I can choose the theme of my app based on my environment or personal preference. |
 | set a language of my choosing (if time allows)                           | I feel more comfortable using the app.                                           |
 
-
-
-
+#### Non-functional
 | Aspect        | Description                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accessibility | The app will be accessible to those who have minimum comfort using technology. Intuitive icons, layout, and navigation will pave the way for a delightful user experience. The app will be designed keeping in mind that most people are right-handed by placing more important items on the right and less important on the left.                                                                |
@@ -53,10 +51,7 @@ Another paid app, Houdini Playlist Transfer, offers roughly the same set of feat
 
 
 
-<!-- Links -->
-
-[1]https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
-
-[2]https://material.io/tools/icons/?style=baseline
-
-[3]https://firebase.google.com/
+<!-- LINKS -->
+[1]: https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+[2]: https://material.io/tools/icons/?style=baseline
+[3]: https://firebase.google.com/
