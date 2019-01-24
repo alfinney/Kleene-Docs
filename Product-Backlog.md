@@ -34,8 +34,8 @@ Another paid app, Houdini Playlist Transfer, offers roughly the same set of feat
 | login to my Kleene account                                               | I can access my customized content.                                              |
 | sign into supported music service(s)                                     | I can listen to the music I already enjoy.                                       |
 | have access to basic features without registering                        | I can become comfortable with the app without the inconvenience of registering.  |
-| play music within the app                                                | I can enjoy a smooth music listening experience                                  |
-| create a playlist that combines songs from multiple services             |                                                                                  |
+| play music within the app from multiple services                         | I can enjoy a smooth music listening experience                                  |
+| create a playlist that combines songs from multiple services             | I can put together my dream playlist.                                                                                 |
 | delete my account and any associated data                                | I feel like my privacy and personal information are respected.                   |
 | transfer a song, playlist, album, or library from one service to another | I can put most of my music in one service.                                       |
 | toggle between light and dark modes (if time allows)                     | I can choose the theme of my app based on my environment or personal preference. |
