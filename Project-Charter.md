@@ -1,5 +1,7 @@
 # Kleene → Project Charter
+
 Team: Vaastav Arora, Andrew Davis, Abigail Finney, Jesse Gallardo, Daniel Tracy, and William Tyler
+
 Last updated: January 16, 2019
 
 
